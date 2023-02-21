@@ -1,0 +1,62 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #c0f0fc;
+  background-image: url(/images/imolaslide1.jpg);
+  background-size: cover;
+}
+
+.school_name{
+    font-size: large;
+    font-weight: bolder;
+    font-family: cursive;
+}
+
+img{
+    border-radius: 10%;
+}
+
+.form-signin {
+  max-width: 330px;
+  padding: 15px;
+}
+
+.form-signin .form-floating:focus-within {
+  z-index: 2;
+}
+
+.top {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.middle{
+    border-radius: 0;
+    /* margin-bottom: -1px; */
+}
+
+.bottom {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+/* failure page */
+
+.the_con{
+  background-color: rgb(255, 74, 74);
+  background-image: none;
+}
+
+.sub_con{
+  text-align: center;
+  margin-left: 33.33%;
+}
