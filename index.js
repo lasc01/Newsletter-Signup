@@ -73,7 +73,3 @@ app.listen(port || 3000, function(){
 	console.log("Server is up and running")
 });
 
-
-// a0b34e0a8a66ab1f3eb929a0d1d5a5cf-us12
-
-// 7d16383d15
